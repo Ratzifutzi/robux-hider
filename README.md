@@ -1,4 +1,4 @@
-![Static Badge](https://api.hyper-tech.ch/badges/v1/firefox-addon)
+![Static Badge](https://api.hyper-tech.ch/badges/v1/firefox-addon?t="y")
 # Robux Hider
 Very simple Firefox I am working on that hides the Robux amount of a user. Looks like this:
 ![image](https://github.com/user-attachments/assets/77069c9e-a495-47d3-8ab3-4019b6a3bb7f)
